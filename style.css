@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+.container{
+    width: 300px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: #EAEAEA;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 18px;
+    margin:10px;
+    position: relative;
+    top: 130px;
+    left: 100px;
+}
+#nome{
+    border-radius: 5px;
+    width:90%;
+    height: 20px;
+    margin-bottom: 20px;
+}
+#email{
+    border-radius: 5px;
+    width:90%;
+    margin-bottom: 20px;
+    height: 20px;
+}
+#telefone{
+    border-radius: 5px;
+    width:90%;
+    margin-bottom: 20px;
+    height: 20px;
+}
+
+button{
+    border-radius: 5px;
+    width: 90px;
+    height: 25px;
+    background-color: rgb(218, 131, 111);
+    color: white;
+    border: none;
+    position: relative;
+    top: 17px;
+}
+#aaa{
+    color: white;
+    text-decoration: none;
+}
+body{
+    background-color: #2DAA9E;
+}
+#img{
+    width: 550px;
+    height: 350px;
+    border-radius: 25px;
+    position: relative;
+    bottom: 245px;
+    left: 800px;
+}
+header{
+    background-color: #66D2CE;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    background-color: #66D2CE;
+    text-align: center;
+    justify-content: center;
+    height: 100px;
+    position:absolute;
+    width: 100%;
+    padding-top: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.fa-whatsapp{
+    text-decoration: none;
+    font-size: 30px;
+    margin: 10px;
+    color: black;
+}
+.fa-discord{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+.fa-facebook{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
